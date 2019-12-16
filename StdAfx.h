@@ -6,7 +6,7 @@ extern DWORD __DEFAULT_CODE_PAGE__;
 
 // Add after or before:
 
-#define APP_PROCESS "metin2client.exe"
+#define APP_PROCESS "metin2client.exe" // Put the name of your binary between the quotes. Example: "mybinary.exe"
 
 //Search:
 
